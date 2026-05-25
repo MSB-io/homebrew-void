@@ -1,6 +1,6 @@
 cask "entervoid" do
-  version "1.0.3"
-  sha256 "9093c9d818ef54f0b5e94278a62883c8a6cfd4754cc4133c6267a3223747a949"
+  version "1.0.4"
+  sha256 "6a9464f43f496d8524c8067b3599b504ad46be844de79a3693a08859228d310b"
 
   url "https://github.com/MSB-io/homebrew-void/releases/download/v#{version}/Void-#{version}.zip"
   name "Void"
